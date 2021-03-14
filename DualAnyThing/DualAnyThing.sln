@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dual.Model", "Dual.Model\Dual.Model.csproj", "{FCB77A54-AAB6-4E1E-90AD-097FB6603C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB77A54-AAB6-4E1E-90AD-097FB6603C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB77A54-AAB6-4E1E-90AD-097FB6603C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB77A54-AAB6-4E1E-90AD-097FB6603C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB77A54-AAB6-4E1E-90AD-097FB6603C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E31DF799-194E-4C5E-BF26-71D474EECAD1}
+	EndGlobalSection
+EndGlobal
