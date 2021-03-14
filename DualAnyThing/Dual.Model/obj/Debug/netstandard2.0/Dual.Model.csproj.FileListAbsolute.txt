@@ -1,0 +1,9 @@
+D:\CongDuan\DualAnyThing\DualAnyThing\Dual.Model\bin\Debug\netstandard2.0\Dual.Model.deps.json
+D:\CongDuan\DualAnyThing\DualAnyThing\Dual.Model\bin\Debug\netstandard2.0\Dual.Model.dll
+D:\CongDuan\DualAnyThing\DualAnyThing\Dual.Model\bin\Debug\netstandard2.0\Dual.Model.pdb
+D:\CongDuan\DualAnyThing\DualAnyThing\Dual.Model\obj\Debug\netstandard2.0\Dual.Model.csprojAssemblyReference.cache
+D:\CongDuan\DualAnyThing\DualAnyThing\Dual.Model\obj\Debug\netstandard2.0\Dual.Model.AssemblyInfoInputs.cache
+D:\CongDuan\DualAnyThing\DualAnyThing\Dual.Model\obj\Debug\netstandard2.0\Dual.Model.AssemblyInfo.cs
+D:\CongDuan\DualAnyThing\DualAnyThing\Dual.Model\obj\Debug\netstandard2.0\Dual.Model.csproj.CoreCompileInputs.cache
+D:\CongDuan\DualAnyThing\DualAnyThing\Dual.Model\obj\Debug\netstandard2.0\Dual.Model.dll
+D:\CongDuan\DualAnyThing\DualAnyThing\Dual.Model\obj\Debug\netstandard2.0\Dual.Model.pdb
